@@ -103,7 +103,7 @@ What excites me most is not just building models, but understanding:
 
 | 🚀 Project                                                                        | 📝 Description                                                        |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [📊 Trader Sentiment Analysis](#)                                                 | Analyzed trader performance vs market sentiment using real-world data |
+| [📊 Trader Sentiment Analysis](https://github.com/abhijain2402/Prime_Trade_AI__sentiment_analysis)                                                 | Analyzed trader performance vs market sentiment using real-world data |
 | [🏦 Loan Approval ML](https://github.com/abhijain2402/LOAN_APPROVAL-USING-ML)     | ML model for loan approval prediction                                 |
 | [📊 Market Segmentation](https://github.com/abhijain2402/Market-Segmentation-PCA) | Customer clustering using PCA                                         |
 
